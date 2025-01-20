@@ -1,40 +1,40 @@
-** Motivation
+* Motivation
 
 I have three cats at home that I absolutely adore, but every time I travel, I have to leave them behind. I set up CCTV cameras to ease my worries, but being away means I can’t always keep an eye on them.
 
 That’s why I built this software to look after my little furballs (dogs are welcome too) when I’m not around.
 
-** Feature List
+* Quick Start
 
+Working in progress.
+* Feature List
 
-- **Privacy & Security**
-  - Localized video processing
+** Privacy & Security
+- Localized video processing
 
-- **Cross-Platform Support**
-  - Windows, Linux, macOS, and Docker deployment
+** Cross-Platform Support
+- Windows, Linux, macOS, and Docker deployment
 
-- **ONVIF Protocol Support**
-  - Access and control compatible cameras
-  - Real-time video stream and metadata
+** ONVIF Protocol Support
+- Access and control compatible cameras
+- Real-time video stream and metadata
 
-- **AI Object Detection**
-  - Use deep learning models (e.g., YOLO, SSD)
-  - Multi-pet and key behavior recognition (sleeping, eating, litter box)
+** AI Object Detection
+- Use deep learning models (e.g., YOLO, SSD)
+- Multi-pet and key behavior recognition (sleeping, eating, litter box)
 
-- **LLM Behavior Analysis & Report Generation**
-  - Generate natural language reports (e.g., "Your cat slept 12 hours" location tracking
+** LLM Behavior Analysis & Report Generation
+- Generate natural language reports (e.g., "Your cat slept 12 hours")
+- Location tracking
 
-- **Event triggers**
-  - (e.g., entering specific area notifications)
+** Event Triggers
+- Notifications for entering specific areas
 
-- **Pet Tracking**
-  - Real-time activity logs (e.g., favorite spots (sofa, window)
+** Pet Tracking
+- Real-time activity logs
+- Favorite spots tracking (e.g., sofa, window)
 
-- **Data Visualization**
-  - Provide charts and time axis views
+** Data Visualization
+- Provide charts and time axis views
 
-- **User-friendly GUI and CLI tools**
-
-** Quick Start
-
-working in progress
+** User-friendly GUI and CLI tools
